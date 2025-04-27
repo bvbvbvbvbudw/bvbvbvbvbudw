@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdan-bikbulatov-72b072307/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://portfolio-bogdan.netlify.app/)
 
